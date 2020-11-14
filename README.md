@@ -10,6 +10,7 @@
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="50px" src="https://github.com/PiPinecone/PiPinecone/blob/main/Images/css.png" />
+<img align="left" alt="TypeScript" width="50x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
 
 
 <br />
@@ -27,4 +28,3 @@
 ### Learning Next:
 <img align="left" alt="Rust" width="50x" src="https://github.com/PiPinecone/PiPinecone/blob/main/Images/rust.png" />
 <img align="left" alt="TypeScript" width="50x" src="https://github.com/PiPinecone/PiPinecone/blob/main/Images/typescript.png" />
-<img align="left" alt="TypeScript" width="50x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
