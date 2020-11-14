@@ -25,5 +25,5 @@
 <br />
 
 ### Learning Next:
-<img align="left" alt="TypeScript" width="50x" src="https://github.com/PiPinecone/PiPinecone/blob/main/Images/typescript.png" />
 <img align="left" alt="Rust" width="50x" src="https://github.com/PiPinecone/PiPinecone/blob/main/Images/rust.png" />
+<img align="left" alt="TypeScript" width="50x" src="https://github.com/PiPinecone/PiPinecone/blob/main/Images/typescript.png" /
