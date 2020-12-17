@@ -25,11 +25,12 @@
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="NeoVim" width="100px" src="https://github.com/PiPinecone/PiPinecone/blob/main/Images/1280px-Neovim-logo.svg.png" />
 <img align="left" alt="Jetbrains" width="50x" src="https://github.com/PiPinecone/PiPinecone/blob/main/Images/jetbrains.png" />
-<img align="left" alt="MongoDB" width="50x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="MongoDB" width="55x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <br />
 <br />
 
 ### Learning Next:
 <img align="left" alt="Rust" width="50x" src="https://github.com/PiPinecone/PiPinecone/blob/main/Images/rust.png" />
+<img align="left" alt="Swift" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
 <img align="left" alt="TypeScript" width="50x" src="https://github.com/PiPinecone/PiPinecone/blob/main/Images/typescript.png" />
