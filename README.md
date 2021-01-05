@@ -33,5 +33,4 @@
 
 ### Learning Next:
 <img align="left" alt="Rust" width="50x" src="https://github.com/PiPinecone/PiPinecone/blob/main/Images/rust.png" />
-<img align="left" alt="Swift" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
 <img align="left" alt="TypeScript" width="50x" src="https://github.com/PiPinecone/PiPinecone/blob/main/Images/typescript.png" />
