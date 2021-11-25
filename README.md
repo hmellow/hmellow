@@ -4,7 +4,7 @@
 
 ### Languages:
 
-###### Listed in order of use frequency (probably outdated but I'm lazy)
+###### Listed in order of use frequency (likely to be outdated)
 
 <br />
 
