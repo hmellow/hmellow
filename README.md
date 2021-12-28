@@ -27,7 +27,9 @@
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="NeoVim" width="100px" src="https://github.com/PiPinecone/PiPinecone/blob/main/Images/1280px-Neovim-logo.svg.png" />
 <img align="left" alt="Jetbrains" width="50x" src="https://github.com/PiPinecone/PiPinecone/blob/main/Images/jetbrains.png" />
-<img align="left" alt="MongoDB" width="55x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Arduino" width="55x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
+<img align="left" alt="Raspberry Pi" width="55x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
+<img align="left" alt="MongoDB" width="80x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Xamarin" width="55x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png" />
 <img align="left" alt="Svelte" width="55x" src="https://avatars.githubusercontent.com/u/23617963?s=200&v=4" />
 
