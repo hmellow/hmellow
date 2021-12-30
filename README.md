@@ -1,6 +1,7 @@
 # PiPinecone
-
-<br /> 
+###### Discord: `PiPinecone#8778`
+----------
+<br/>
 
 ### Languages:
 
