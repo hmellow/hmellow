@@ -6,6 +6,7 @@
 ### Languages:
 
 ###### Listed in order of current use frequency (likely to be outdated)
+###### Don't look at my profile in dark mode it looks bad
 
 <br />
 
