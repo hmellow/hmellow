@@ -1,5 +1,6 @@
-# PiPinecone
-###### Discord: `PiPinecone#8778`
+<img title="" src="https://github.com/PiPinecone/PiPinecone/blob/main/Images/logo.png" alt="">
+
+##### Logo made with [ASCII-Rainbow](https://github.com/PiPinecone/ASCII-Rainbow)
 ----------
 <br/>
 
