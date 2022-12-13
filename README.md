@@ -6,4 +6,4 @@
 
 ###
 
-[![Icons](https://skillicons.dev/icons?i=js,bash,swift,react,svelte,tailwind,nodejs,py,cpp,firebase,mongodb,arduino,html,css&perline=7)](https://skillicons.dev)
+[![Icons](https://skillicons.dev/icons?i=js,bash,swift,react,next,tailwind,nodejs,py,cpp,firebase,mongodb,arduino,html,css&perline=7)](https://skillicons.dev)
